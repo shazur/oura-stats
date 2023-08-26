@@ -1,0 +1,101 @@
+{
+  "1": {
+    "Utilities": 225732,
+    "Software Development": 115104,
+    "Communication & Scheduling": 50437,
+    "Design & Composition": 11873,
+    "Other Work": 22025,
+    "Entertainment": 1047,
+    "Reference & Learning": 1232,
+    "Uncategorized": 3997,
+    "Business": 582,
+    "News & Opinion": 1,
+    "Shopping": 39
+  },
+  "2": {
+    "Utilities": 232177,
+    "Communication & Scheduling": 127838,
+    "Other Work": 28075,
+    "Software Development": 259519,
+    "Reference & Learning": 1782,
+    "Design & Composition": 245,
+    "Business": 454,
+    "Uncategorized": 1441,
+    "Entertainment": 5620
+  },
+  "3": {
+    "Software Development": 340871,
+    "Utilities": 370761,
+    "Communication & Scheduling": 141859,
+    "Other Work": 41592,
+    "Business": 834,
+    "Uncategorized": 716,
+    "Design & Composition": 351,
+    "Reference & Learning": 1664,
+    "Entertainment": 8
+  },
+  "4": {
+    "Utilities": 286007,
+    "Software Development": 170367,
+    "Communication & Scheduling": 92126,
+    "Other Work": 27411,
+    "Uncategorized": 1670,
+    "Reference & Learning": 685,
+    "Business": 637,
+    "Entertainment": 127,
+    "Design & Composition": 3,
+    "News & Opinion": 2
+  },
+  "5": {
+    "Utilities": 327947,
+    "Software Development": 174031,
+    "Communication & Scheduling": 66608,
+    "Other Work": 36804,
+    "Uncategorized": 1684,
+    "Reference & Learning": 1226,
+    "News & Opinion": 1325,
+    "Design & Composition": 961,
+    "Business": 2452,
+    "Entertainment": 6391
+  },
+  "6": {
+    "Utilities": 342416,
+    "Software Development": 173884,
+    "Communication & Scheduling": 36159,
+    "Other Work": 32236,
+    "Uncategorized": 793,
+    "Business": 437,
+    "Entertainment": 1151,
+    "Reference & Learning": 1431,
+    "Design & Composition": 1613
+  },
+  "7": {
+    "Utilities": 278218,
+    "Software Development": 183657,
+    "Uncategorized": 2057,
+    "Other Work": 36833,
+    "Communication & Scheduling": 22748,
+    "Business": 649,
+    "Reference & Learning": 786,
+    "Design & Composition": 3765,
+    "Entertainment": 1405,
+    "News & Opinion": 2
+  },
+  "8": {
+    "Utilities": 282430,
+    "Software Development": 118885,
+    "Other Work": 33794,
+    "Communication & Scheduling": 39732,
+    "Uncategorized": 3717,
+    "Business": 1101,
+    "Reference & Learning": 644,
+    "Entertainment": 2347,
+    "Design & Composition": 4740,
+    "Shopping": 16,
+    "News & Opinion": 40
+  },
+  "9": {},
+  "10": {},
+  "11": {},
+  "12": {}
+}
